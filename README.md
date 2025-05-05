@@ -1,4 +1,4 @@
-# Home Assignement, Mend.io, Maciej Krzesiński
+# Maciej Krzesiński
 
 #### Table of Contents
 - [General description](#gendescr)
