@@ -1,110 +1,110 @@
 [ {
-  "uid" : "da3c728b3dd852a",
-  "name" : "closeIssue",
-  "time" : {
-    "start" : 1739562340167,
-    "stop" : 1739562340682,
-    "duration" : 515
-  },
-  "status" : "passed",
-  "severity" : "critical"
-}, {
-  "uid" : "efbc42bb6835a8b2",
-  "name" : "deleteRepository",
-  "time" : {
-    "start" : 1739562339404,
-    "stop" : 1739562339726,
-    "duration" : 322
-  },
-  "status" : "passed",
-  "severity" : "critical"
-}, {
-  "uid" : "165494f83e3a5ad4",
-  "name" : "unsuccessfullLoginWithInvalidToken",
-  "time" : {
-    "start" : 1739562338109,
-    "stop" : 1739562338173,
-    "duration" : 64
-  },
-  "status" : "passed",
-  "severity" : "critical"
-}, {
-  "uid" : "7f57573d66412bec",
-  "name" : "createAndDeleteIssue",
-  "time" : {
-    "start" : 1739562338924,
-    "stop" : 1739562339228,
-    "duration" : 304
-  },
-  "status" : "passed",
-  "severity" : "critical"
-}, {
-  "uid" : "7a1e15d15fb410e5",
-  "name" : "createRepository",
-  "time" : {
-    "start" : 1739562337914,
-    "stop" : 1739562338920,
-    "duration" : 1006
-  },
-  "status" : "passed",
-  "severity" : "critical"
-}, {
-  "uid" : "e6e8b6a2c73beb78",
-  "name" : "successfullLogin",
-  "time" : {
-    "start" : 1739562337915,
-    "stop" : 1739562338065,
-    "duration" : 150
-  },
-  "status" : "passed",
-  "severity" : "critical"
-}, {
-  "uid" : "ca499a9f2dd6b204",
-  "name" : "editIssue",
-  "time" : {
-    "start" : 1739562339731,
-    "stop" : 1739562340164,
-    "duration" : 433
-  },
-  "status" : "passed",
-  "severity" : "critical"
-}, {
-  "uid" : "7c6993b4ad467336",
+  "uid" : "d70e715a64dc9741",
   "name" : "closePullRequest",
   "time" : {
-    "start" : 1739562341019,
-    "stop" : 1739562342695,
-    "duration" : 1676
+    "start" : 1746432639079,
+    "stop" : 1746432641100,
+    "duration" : 2021
   },
   "status" : "passed",
   "severity" : "critical"
 }, {
-  "uid" : "2ed873d8e82017d4",
+  "uid" : "d381cdf99a280b88",
+  "name" : "editIssue",
+  "time" : {
+    "start" : 1746432638198,
+    "stop" : 1746432638662,
+    "duration" : 464
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "9df224ecfbf0846f",
+  "name" : "createRepository",
+  "time" : {
+    "start" : 1746432636185,
+    "stop" : 1746432637236,
+    "duration" : 1051
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "1b4e8bca0c3a6e89",
   "name" : "cloneRepository",
   "time" : {
-    "start" : 1739562339232,
-    "stop" : 1739562339401,
-    "duration" : 169
+    "start" : 1746432637603,
+    "stop" : 1746432637853,
+    "duration" : 250
   },
   "status" : "passed",
   "severity" : "critical"
 }, {
-  "uid" : "8d280b298a2888cb",
+  "uid" : "1f374820be2a30c3",
   "name" : "createPullRequest",
   "time" : {
-    "start" : 1739562338180,
-    "stop" : 1739562339757,
-    "duration" : 1577
+    "start" : 1746432636506,
+    "stop" : 1746432638004,
+    "duration" : 1498
   },
   "status" : "passed",
   "severity" : "critical"
 }, {
-  "uid" : "7f514794fdbddb38",
+  "uid" : "958451ccae89d3c9",
+  "name" : "closeIssue",
+  "time" : {
+    "start" : 1746432638665,
+    "stop" : 1746432639248,
+    "duration" : 583
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d7f18362adc5bce5",
+  "name" : "successfullLogin",
+  "time" : {
+    "start" : 1746432636185,
+    "stop" : 1746432636363,
+    "duration" : 178
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "38df19f6054d11b6",
   "name" : "mergePullRequest",
   "time" : {
-    "start" : 1739562339762,
-    "stop" : 1739562341016,
-    "duration" : 1254
+    "start" : 1746432638007,
+    "stop" : 1746432639076,
+    "duration" : 1069
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "be4e4ff3f41c2f5d",
+  "name" : "unsuccessfullLoginWithInvalidToken",
+  "time" : {
+    "start" : 1746432636406,
+    "stop" : 1746432636501,
+    "duration" : 95
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d5b1086a4c9b05f4",
+  "name" : "deleteRepository",
+  "time" : {
+    "start" : 1746432637856,
+    "stop" : 1746432638195,
+    "duration" : 339
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "af2943b271b608b4",
+  "name" : "createAndDeleteIssue",
+  "time" : {
+    "start" : 1746432637241,
+    "stop" : 1746432637599,
+    "duration" : 358
   },
   "status" : "passed",
   "severity" : "critical"
