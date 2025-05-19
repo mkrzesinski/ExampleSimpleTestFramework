@@ -1,12 +1,12 @@
 {
-  "uid" : "9dcc1fc25761a7e9",
-  "name" : "cloneRepository",
-  "fullName" : "api.tests.RepositoryTests.cloneRepository",
-  "historyId" : "3b788fb3926a9b7793dcc46c642b7666",
+  "uid" : "45736780fdb0023f",
+  "name" : "createRepository",
+  "fullName" : "api.tests.RepositoryTests.createRepository",
+  "historyId" : "4a07af19d818b587bd6bd18337579a53",
   "time" : {
-    "start" : 1747685003223,
-    "stop" : 1747685003575,
-    "duration" : 352
+    "start" : 1747686182116,
+    "stop" : 1747686183087,
+    "duration" : 971
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,8 +14,8 @@
   "beforeStages" : [ {
     "name" : "setUpClient",
     "time" : {
-      "start" : 1747685001234,
-      "stop" : 1747685001234,
+      "start" : 1747686182073,
+      "stop" : 1747686182073,
       "duration" : 0
     },
     "description" : "",
@@ -30,9 +30,9 @@
   }, {
     "name" : "setUp",
     "time" : {
-      "start" : 1747684998718,
-      "stop" : 1747685001207,
-      "duration" : 2489
+      "start" : 1747686179913,
+      "stop" : 1747686182050,
+      "duration" : 2137
     },
     "description" : "",
     "status" : "passed",
@@ -53,7 +53,7 @@
     "value" : "api.tests.RepositoryTests"
   }, {
     "name" : "testMethod",
-    "value" : "cloneRepository"
+    "value" : "createRepository"
   }, {
     "name" : "parentSuite",
     "value" : "GitHub MVP test suit"
@@ -68,7 +68,7 @@
     "value" : "pkrvmf6wy0o8zjz"
   }, {
     "name" : "thread",
-    "value" : "2149@pkrvmf6wy0o8zjz.TestNG-test-GitHub API MVP Tests-2(22)"
+    "value" : "2165@pkrvmf6wy0o8zjz.TestNG-test-GitHub API MVP Tests-2(22)"
   }, {
     "name" : "framework",
     "value" : "testng"
@@ -95,6 +95,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "9dcc1fc25761a7e9.json",
+  "source" : "45736780fdb0023f.json",
   "parameterValues" : [ ]
 }
