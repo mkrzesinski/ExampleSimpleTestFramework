@@ -5,26 +5,26 @@
     "name" : "GitHub MVP tests - Login",
     "children" : [ {
       "name" : "successfullLogin",
-      "uid" : "448aecda602d9afd",
+      "uid" : "c67a86e3ea87ce81",
       "parentUid" : "ad97fb6214d1b0e352ae829a7b9b0775",
       "status" : "passed",
       "time" : {
-        "start" : 1747681678224,
-        "stop" : 1747681678363,
-        "duration" : 139
+        "start" : 1747685001277,
+        "stop" : 1747685001555,
+        "duration" : 278
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "unsuccessfullLoginWithInvalidToken",
-      "uid" : "98fc025728e4eed9",
+      "uid" : "bdf65cc48970e9b9",
       "parentUid" : "ad97fb6214d1b0e352ae829a7b9b0775",
       "status" : "passed",
       "time" : {
-        "start" : 1747681678402,
-        "stop" : 1747681678453,
-        "duration" : 51
+        "start" : 1747685001596,
+        "stop" : 1747685001803,
+        "duration" : 207
       },
       "flaky" : false,
       "newFailed" : false,
@@ -35,39 +35,39 @@
     "name" : "GitHub MVP tests - Repository",
     "children" : [ {
       "name" : "createRepository",
-      "uid" : "a997ea4880e73d8c",
+      "uid" : "7af9fb0fe1485b32",
       "parentUid" : "1aee12d6894c822d7164f55969dad40b",
       "status" : "passed",
       "time" : {
-        "start" : 1747681678224,
-        "stop" : 1747681679031,
-        "duration" : 807
+        "start" : 1747685001277,
+        "stop" : 1747685002774,
+        "duration" : 1497
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "cloneRepository",
-      "uid" : "745a6054bbdfd6cb",
+      "uid" : "9dcc1fc25761a7e9",
       "parentUid" : "1aee12d6894c822d7164f55969dad40b",
       "status" : "passed",
       "time" : {
-        "start" : 1747681679324,
-        "stop" : 1747681679539,
-        "duration" : 215
+        "start" : 1747685003223,
+        "stop" : 1747685003575,
+        "duration" : 352
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "deleteRepository",
-      "uid" : "4a523efbc1cda10f",
+      "uid" : "b70404a71cd64220",
       "parentUid" : "1aee12d6894c822d7164f55969dad40b",
       "status" : "passed",
       "time" : {
-        "start" : 1747681679541,
-        "stop" : 1747681679918,
-        "duration" : 377
+        "start" : 1747685003580,
+        "stop" : 1747685004093,
+        "duration" : 513
       },
       "flaky" : false,
       "newFailed" : false,
@@ -78,39 +78,39 @@
     "name" : "GitHub MVP tests - Pull requests",
     "children" : [ {
       "name" : "createPullRequest",
-      "uid" : "ff9ff716f5810c55",
+      "uid" : "a7fbd8614d8fdba1",
       "parentUid" : "dd5fc57923a4bd6261018da77d3d3610",
       "status" : "passed",
       "time" : {
-        "start" : 1747681678459,
-        "stop" : 1747681679752,
-        "duration" : 1293
+        "start" : 1747685001811,
+        "stop" : 1747685003647,
+        "duration" : 1836
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "mergePullRequest",
-      "uid" : "b8ca75d421b53ba",
+      "uid" : "dd6a4f7dce3f8860",
       "parentUid" : "dd5fc57923a4bd6261018da77d3d3610",
       "status" : "passed",
       "time" : {
-        "start" : 1747681679755,
-        "stop" : 1747681680786,
-        "duration" : 1031
+        "start" : 1747685003650,
+        "stop" : 1747685004845,
+        "duration" : 1195
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "closePullRequest",
-      "uid" : "a5c9d266c2f2f710",
+      "uid" : "1bc5e3a2c98d1022",
       "parentUid" : "dd5fc57923a4bd6261018da77d3d3610",
       "status" : "passed",
       "time" : {
-        "start" : 1747681680789,
-        "stop" : 1747681682510,
-        "duration" : 1721
+        "start" : 1747685004848,
+        "stop" : 1747685007328,
+        "duration" : 2480
       },
       "flaky" : false,
       "newFailed" : false,
@@ -121,39 +121,39 @@
     "name" : "GitHub MVP tests - Issues",
     "children" : [ {
       "name" : "createAndDeleteIssue",
-      "uid" : "522769892a982441",
+      "uid" : "c5c7c534b1015c67",
       "parentUid" : "1bfa566d0bace6fbfec07473bbcf3abf",
       "status" : "passed",
       "time" : {
-        "start" : 1747681679035,
-        "stop" : 1747681679318,
-        "duration" : 283
+        "start" : 1747685002779,
+        "stop" : 1747685003218,
+        "duration" : 439
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "editIssue",
-      "uid" : "8f8297a6b7193795",
+      "uid" : "fd070b8179be2d0c",
       "parentUid" : "1bfa566d0bace6fbfec07473bbcf3abf",
       "status" : "passed",
       "time" : {
-        "start" : 1747681679921,
-        "stop" : 1747681680299,
-        "duration" : 378
+        "start" : 1747685004096,
+        "stop" : 1747685004643,
+        "duration" : 547
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "closeIssue",
-      "uid" : "a3620db6723e26e2",
+      "uid" : "fc441c6930f6fec6",
       "parentUid" : "1bfa566d0bace6fbfec07473bbcf3abf",
       "status" : "passed",
       "time" : {
-        "start" : 1747681680302,
-        "stop" : 1747681680765,
-        "duration" : 463
+        "start" : 1747685004646,
+        "stop" : 1747685005281,
+        "duration" : 635
       },
       "flaky" : false,
       "newFailed" : false,
