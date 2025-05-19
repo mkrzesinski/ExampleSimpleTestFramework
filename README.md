@@ -69,6 +69,8 @@ To reach secrets please email me directly with `maciej.krzesinski@gmail.com`**
 
 #### 1. Run by Github Actions
 
+![Build Status](https://github.com/mkrzesinski/SimpleTestFramework/actions/workflows/ci.yml/badge.svg)
+
 Repository has configured CI aspect using Github actions. Trigger for test run is push to master branch.
 You can fork repository and trigger builds.<br>
 Beside of that you can reach author `maciej.krzesinski@gmail.com` to add you as a contributor and be able to run last
